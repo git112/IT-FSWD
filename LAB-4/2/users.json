@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "name": "ANNA",
+    "email": "anna@example.com",
+    "createdAt": "2025-01-19T11:09:30.092Z"
+  },
+  {
+    "id": 3,
+    "name": "Marie D'Souza",
+    "email": "marie@example.com",
+    "createdAt": "2025-01-19T11:09:59.709Z"
+  }
+]

@@ -1,0 +1,11 @@
+[2025-01-19T10:39:22.703Z] Found 11 files to organize
+[2025-01-19T10:39:22.711Z] Created directory: images
+[2025-01-19T10:39:22.711Z] Created directory: documents
+[2025-01-19T10:39:22.712Z] Created directory: videos
+[2025-01-19T10:39:22.712Z] Created directory: audio
+[2025-01-19T10:39:22.713Z] Created directory: others
+[2025-01-19T10:39:22.714Z] Moved 1.png to images
+[2025-01-19T10:39:22.714Z] Moved 4.pdf to documents
+[2025-01-19T10:39:22.714Z] Moved 3.mp3 to audio
+[2025-01-19T10:39:22.714Z] Moved app.js to others
+[2025-01-19T10:39:22.715Z] Moved 2.mp4 to videos
