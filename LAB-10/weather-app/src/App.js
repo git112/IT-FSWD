@@ -10,7 +10,7 @@ const App = () => {
   const [error, setError] = useState(null);
   const [lastSearchedCity, setLastSearchedCity] = useState('');
 
-  const API_KEY = '73c25aad1814973c7692cb704a6a011d'; // Replace with your actual API key
+  const API_KEY = '73c25aad1814973c7692cb704a6a011d'; 
 
   const fetchWeatherData = async (cityName) => {
     if (!cityName.trim()) {
